@@ -5,26 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40a45a72-c202-48bd-8624-3d150742c4cd" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/client/GiftClint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/dto/SmsCoupon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gift/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/com/MybatisDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/com/coupon/controller/SmsCouponController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/com/coupon/entity/SmsCoupon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/com/coupon/mapper/SmsCouponMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/com/coupon/service/ISmsCouponService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/com/coupon/service/impl/SmsCouponServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift/target/classes/mapper/SmsCouponMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shopping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/MybatisDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/MybatisDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/openFeign/GiftClint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/shop/controller/PmsBrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shop/controller/PmsBrandController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/IPmsBrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/IPmsBrandService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/impl/PmsBrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/impl/PmsBrandServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/vo/SmsCoupon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/openFeign/GiftClint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/controller/PmsBrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/target/classes/com/shop/controller/PmsBrandController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/IPmsBrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/IPmsBrandService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/impl/PmsBrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/impl/PmsBrandServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/vo/SmsCoupon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/MybatisDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/controller/PmsBrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/entity/PmsBrand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/mapper/PmsBrandMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/IPmsBrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/impl/PmsBrandServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/mapper/PmsBrandMapper.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +73,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-1.8 (2)",
-    "last_opened_file_path": "C:/klklkl/local-springcloud/Spring-cloud/sweet-service",
+    "last_opened_file_path": "C:/klklkl/local-springcloud/Spring-cloud/sweet-service/gateway/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,7 +82,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "f3cbcfe79be97a202d1f0e6c74086961"
+    "spring.configuration.checksum": "aa115b96411e90fe7868a21bc4a029f5"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -92,6 +95,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\klklkl\local-springcloud\Spring-cloud\sweet-service\gateway\src\main\resources" />
       <recent name="D:\idea测试项目\sweet-service\gift\src\main\resources" />
       <recent name="D:\idea测试项目\sweet-service\shopping\src\main\resources" />
     </key>
@@ -100,15 +104,28 @@
       <recent name="D:\idea测试项目\sweet-service\shopping\src\main\java\com\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com" />
       <recent name="dto" />
       <recent name="client" />
       <recent name="com.vo" />
-      <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MybatisDemoApplication (1)">
+  <component name="RunManager" selected="Spring Boot.MybatisDemoApplication (2)">
     <configuration name="MybatisDemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="gift" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MybatisDemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisDemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.MybatisDemoApplication" />
       <extension name="coverage">
         <pattern>
@@ -135,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MybatisDemoApplication (2)" />
         <item itemvalue="Spring Boot.MybatisDemoApplication (1)" />
         <item itemvalue="Spring Boot.MybatisDemoApplication" />
       </list>
@@ -150,7 +168,8 @@
       <updated>1739325131039</updated>
       <workItem from="1739325132142" duration="8104000" />
       <workItem from="1739334710232" duration="8654000" />
-      <workItem from="1739347001409" duration="1525000" />
+      <workItem from="1739347001409" duration="4841000" />
+      <workItem from="1739352377320" duration="653000" />
     </task>
     <servers />
   </component>
