@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a45a72-c202-48bd-8624-3d150742c4cd" name="更改" comment="" />
+    <list default="true" id="40a45a72-c202-48bd-8624-3d150742c4cd" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/MybatisDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/MybatisDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/openFeign/GiftClint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/shop/controller/PmsBrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shop/controller/PmsBrandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/IPmsBrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/IPmsBrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/impl/PmsBrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/src/main/java/com/shop/service/impl/PmsBrandServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/src/main/java/com/vo/SmsCoupon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/openFeign/GiftClint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/controller/PmsBrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/target/classes/com/shop/controller/PmsBrandController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/IPmsBrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/IPmsBrandService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/impl/PmsBrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/shopping/target/classes/com/shop/service/impl/PmsBrandServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping/target/classes/com/vo/SmsCoupon.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -25,12 +49,13 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\maven,jdk\zkdn_repository\zkdn_repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../maven,jdk/eir/apache-maven-3.6.3" />
+        <option name="mavenHome" value="D:/maven,jdk/eir/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\maven,jdk\eir\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2sv9LuAGmWOYSYuqskQHi8NNYG9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -42,9 +67,10 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-1.8 (2)",
-    "last_opened_file_path": "D:/idea测试项目/sweet-service/gift/src/main/resources",
+    "last_opened_file_path": "C:/klklkl/local-springcloud/Spring-cloud/sweet-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +100,13 @@
       <recent name="D:\idea测试项目\sweet-service\shopping\src\main\java\com\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dto" />
+      <recent name="client" />
       <recent name="com.vo" />
       <recent name="com" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MybatisDemoApplication">
+  <component name="RunManager" selected="Spring Boot.MybatisDemoApplication (1)">
     <configuration name="MybatisDemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="gift" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.MybatisDemoApplication" />
@@ -107,8 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MybatisDemoApplication" />
         <item itemvalue="Spring Boot.MybatisDemoApplication (1)" />
+        <item itemvalue="Spring Boot.MybatisDemoApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +150,7 @@
       <updated>1739325131039</updated>
       <workItem from="1739325132142" duration="8104000" />
       <workItem from="1739334710232" duration="8654000" />
+      <workItem from="1739347001409" duration="1525000" />
     </task>
     <servers />
   </component>

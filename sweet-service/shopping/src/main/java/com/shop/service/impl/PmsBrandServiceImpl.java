@@ -1,13 +1,11 @@
 package com.shop.service.impl;
-
-import com.openFeign.GiftClint;
+import client.GiftClint;
 import com.shop.entity.PmsBrand;
 import com.shop.mapper.PmsBrandMapper;
 import com.shop.service.IPmsBrandService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.vo.SmsCoupon;
+import dto.SmsCoupon;
 import org.springframework.stereotype.Service;
-
 import javax.annotation.Resource;
 import java.util.List;
 import java.util.Objects;

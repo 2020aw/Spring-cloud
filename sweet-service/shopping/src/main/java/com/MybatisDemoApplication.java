@@ -8,7 +8,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @MapperScan("com.shop.mapper")
-@EnableFeignClients
+@EnableFeignClients(basePackages = "client")
 public class MybatisDemoApplication {
 
     public static void main(String[] args) {

@@ -1,9 +1,7 @@
 package com.shop.service;
-
 import com.shop.entity.PmsBrand;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.vo.SmsCoupon;
-
+import dto.SmsCoupon;
 import java.util.List;
 import java.util.Objects;
 

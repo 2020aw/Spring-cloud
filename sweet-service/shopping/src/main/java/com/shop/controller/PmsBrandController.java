@@ -1,21 +1,13 @@
 package com.shop.controller;
-
-
-import com.openFeign.GiftClint;
 import com.shop.service.IPmsBrandService;
-import com.vo.SmsCoupon;
-import org.springframework.beans.factory.annotation.Autowired;
+import dto.SmsCoupon;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-
 import org.springframework.web.bind.annotation.RestController;
 import com.shop.entity.PmsBrand;
-
 import javax.annotation.Resource;
-import java.sql.Array;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
+
 
 /**
  * <p>
